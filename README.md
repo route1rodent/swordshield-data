@@ -1,6 +1,6 @@
 # Pokémon Sword and Shield Data Dumps
 
-> **IMPORTANT NOTICE**: This project is outdated and won't be maintained anymore. Please use one of the following projects:
+> **IMPORTANT NOTICE**: This project won't be maintained anymore. Please use one of the following projects:
 > - https://github.com/itsjavi/showdown-data
 > - https://github.com/itsjavi/pokemon-assets
 > - https://github.com/itsjavi/livingdex
